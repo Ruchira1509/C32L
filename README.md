@@ -1,2 +1,1 @@
-# C32L
-Angry birds 7
+# AngryBirdsStage7
